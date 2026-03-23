@@ -1,3 +1,3 @@
 # MPCHG
 MPCHG: Motif interaction prediction using graph-based modeling, an end-to-end computational framework for genome-wide inference of motif-motif interactions from bulk Hi-C data
-![MPCHG Workflow](/https://github.com/qiuqin-wu/MPCHG/blob/main/workflow.jpg?raw=true)
+![MPCHG Workflow](/https://github.com/qiuqin-wu/MPCHG/blob/main/workflow.png?raw=true)
